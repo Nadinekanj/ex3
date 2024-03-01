@@ -9,8 +9,6 @@ public class App
 	public static int Add (int a, int b) {
 	 int result;	
 	 
-	
-	 
 	 if (b > a) {
 	    b = b - a;
 	    result= b;
